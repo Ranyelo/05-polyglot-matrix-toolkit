@@ -1,0 +1,10 @@
+# Polyglot ignores
+*.class
+out/
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.pyc
+__pycache__/
