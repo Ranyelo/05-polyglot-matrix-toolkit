@@ -12,4 +12,3 @@ Este proyecto reúne la solución a un taller sobre operaciones lógicas y estru
 * `python/`: Script y entorno visual de Python.
 * `csharp/`: Código fuente de formularios y archivo del proyecto C# (sin carpetas temporales bin/obj).
 * `java/`: Archivo de código en Java.
-* `docs/`: Enunciados y guía del taller escolar en PDF.
